@@ -14,21 +14,7 @@ function shout(string) {
   function sayHiToHeadphonedRoommate(string) {
     string== string.toLowerCase()
     if(string= string.toLowerCase ()){
-    return "I can't hear you!";}       
+    return 'I can\'t hear you!';}       
+
   }
-  function sayHiToHeadphonedRoommate(string) {
-    string== string.toUpperCase()
-    if(string= string.toUpperCase ()){
-    return "YES INDEED!";}
-  }
-  function sayHiToHeadphonedRoommate(string) {
-    string== string.toLowerCase()
-    if(string= string.toLowerCase ()){
-    return "I can't hear you!";}
-  }
-  function sayHiToHeadphonedRoommate(string) {
-    string== string.toUpperCase()
-    if(string= string.toUpperCase ()){
-    return "YES INDEED!";}
-  }
-  
+
